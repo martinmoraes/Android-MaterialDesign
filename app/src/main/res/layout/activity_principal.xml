@@ -21,6 +21,7 @@
           app:fabSize="normal"
           android:layout_marginBottom="@dimen/fab_margin_bottom"
           android:layout_marginRight="@dimen/fab_margin_right"
-          android:layout_marginEnd="@dimen/fab_margin_right"/>
+          android:layout_marginEnd="@dimen/fab_margin_right"
+          android:onClick="umaMensagem"/>
   </FrameLayout>
 </android.support.v4.widget.DrawerLayout>
