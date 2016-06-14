@@ -11,4 +11,9 @@
         <item name="windowNoTitle">true</item>
     </style>
 
+    <style name="AppTheme.Transparente">
+        <!-- Customize your theme here. -->
+        <!--<item name="android:windowDrawsSystemBarBackgrounds">true</item>-->
+        <!--<item name="android:statusBarColor">@android:color/transparent</item>-->
+    </style>
 </resources>
